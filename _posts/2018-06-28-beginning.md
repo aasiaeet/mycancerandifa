@@ -1,7 +1,7 @@
 ﻿---
 title: بلاگ اینگونه زاده شد
 layout: post
-uuid: df8977bd-9a2f-4ef7-9e9f-49459afefb71
+comments: true
 category: 
 tags: 
 ---
