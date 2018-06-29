@@ -2,8 +2,8 @@
 title: بلاگ اینگونه زاده شد
 layout: post
 comments: true
-category: 
-tags: 
+category: life 
+tags: cancer
 ---
 
 این وب سایت رو با جکیل در دوره بیماریم دو سال پیش به طور تفریحی راه انداختم نوشته شده بود حدودا:
