@@ -11,12 +11,14 @@ description: > # this means to ignore newlines
   یادداشت های شخصی راجع به ... 
 long_description: >
   سن و سال که بالا میره حتی تو دار ترین آدم ها ابایی از ابراز ندارند.
+  
   قوی ترین عضله پیرمرد ها زبانه و سرگرمیشون پر حرفی
+  
   نوشته های اینجا نشانه ی پیریه
 
 favicon: assets/img/favicon.png
 permalink: :title.html
-timezone: Europe/Berlin
+#timezone: Europe/Berlin
 
 paginate: 3
 paginate_path: /page:num/
