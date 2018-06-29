@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    jekyll-theme-mehdix-rtl (1.2.1)
+    jekyll-theme-mehdix-rtl (2.2.0)
       jekyll (~> 3.3)
       jekyll-default-layout (~> 0.1)
       jekyll-hinduarabic (~> 0.1)
@@ -25,7 +25,9 @@ GEM
       eventmachine (>= 0.12.9)
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.5)
+    eventmachine (1.2.5-x64-mingw32)
     ffi (1.9.18)
+    ffi (1.9.18-x64-mingw32)
     forwardable-extended (2.6.0)
     http_parser.rb (0.6.0)
     i18n (0.9.3)
@@ -80,6 +82,8 @@ GEM
     mini_portile2 (2.3.0)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+    nokogiri (1.8.2-x64-mingw32)
+      mini_portile2 (~> 2.3.0)
     nuggets (0.9.9)
       ruby-nuggets (= 0.9.9)
     pathutil (0.16.1)
@@ -101,6 +105,7 @@ GEM
 
 PLATFORMS
   ruby
+  x64-mingw32
 
 DEPENDENCIES
   bundler (~> 1.12)
